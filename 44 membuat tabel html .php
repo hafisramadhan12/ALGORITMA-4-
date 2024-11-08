@@ -47,4 +47,4 @@ echo $tabel;
 	</tr>
 </table>
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>By HAFIS RAMADHAN NASUTION</strong>";

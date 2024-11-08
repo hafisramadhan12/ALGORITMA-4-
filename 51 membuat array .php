@@ -27,4 +27,4 @@ foreach ($pengguna as $kunci => $nilai) {
     echo $kunci . ': ' . $nilai . '<br>';
 }
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

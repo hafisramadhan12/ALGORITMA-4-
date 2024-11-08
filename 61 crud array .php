@@ -23,4 +23,4 @@ unset($umur["Budi"]); // menghapus elemen dengan key "Budi" dari array $umur
 
 unset($buah); // menghapus keseluruhan array $buah
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

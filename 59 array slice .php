@@ -5,4 +5,4 @@ $subBuah = array_slice($buah, 1, 2);
 print_r($subBuah);
 echo "<pre>";
 
-echo "<p><strong><i>by hafidz ramadhan<?strong>";
+echo "<p><strong><i>hafidz ramadhan<?strong>";

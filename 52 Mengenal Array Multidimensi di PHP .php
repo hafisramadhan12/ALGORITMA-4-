@@ -15,4 +15,4 @@ foreach ($films as $filmDetails) {
 $totalFilms = count($films);
 echo "Jumlah film: " . $totalFilms; // Menampilkan jumlah film
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

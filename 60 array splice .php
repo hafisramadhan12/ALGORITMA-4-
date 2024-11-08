@@ -5,4 +5,4 @@ array_splice($buah, 2, 1, "kiwi");
 print_r($buah);
 echo "<pre>";
 
-echo "<p><strong><i>by hafidz ramadhan<?strong>";
+echo "<p><strong><i>hafidz ramadhan<?strong>";

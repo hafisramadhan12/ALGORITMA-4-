@@ -11,4 +11,4 @@ echo "<h2>".$artikel["judul"]."</h2>";
 echo "<p>oleh: ".$artikel["penulis"]."</p>";
 echo "<p>View: ".$artikel["view"]."</p>";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

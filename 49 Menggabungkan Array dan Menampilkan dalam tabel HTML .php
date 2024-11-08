@@ -19,4 +19,4 @@ for ($i = 0; $i < $totalArray; $i++) {
 echo "</table>";
 echo "<br>";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

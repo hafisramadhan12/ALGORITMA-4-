@@ -19,4 +19,4 @@ echo "<pre>";
 print_r($hewan);
 echo "</pre>";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

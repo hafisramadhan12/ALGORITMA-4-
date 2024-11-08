@@ -7,4 +7,4 @@ echo "<pre>";
 print_r($email);
 echo "</pre>";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

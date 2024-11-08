@@ -10,4 +10,4 @@ for ($i = 0; $i < 5; $i++) {
     echo "\n";
 }
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

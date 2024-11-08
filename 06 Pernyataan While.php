@@ -7,4 +7,4 @@ while ($i <= 10) {
   $i++;
 }
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");

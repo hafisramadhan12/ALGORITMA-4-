@@ -6,4 +6,4 @@ $result = array_merge($array1, $array2);
 print_r($result);
 echo "</pre>";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

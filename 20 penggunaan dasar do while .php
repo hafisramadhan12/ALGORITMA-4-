@@ -6,4 +6,4 @@ do {
     $hitung++;
 } while ($hitung <= 5);
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");

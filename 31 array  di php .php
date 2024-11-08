@@ -10,4 +10,4 @@ $anggota[1] = "Dian";
 $anggota[2] = "Muhar";
 $anggota[0] = "Meylisa";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

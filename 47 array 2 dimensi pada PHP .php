@@ -9,6 +9,6 @@ echo $nilai[0] [0]." ".$nilai[0] [1]." ".$nilai[0] [2]."<br>";
 echo $nilai[1] [0]." ".$nilai[1] [1]." ".$nilai[1] [2]."<br>";
 echo $nilai[2] [0]." ".$nilai[2] [1]." ".$nilai[2] [2]."<br>";
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";
 
 ?> 

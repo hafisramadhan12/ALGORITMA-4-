@@ -17,6 +17,6 @@ foreach($hobi as $hobiku){
     echo $hobiku."<br>";
 }
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";
 
 ?>

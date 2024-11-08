@@ -45,3 +45,5 @@ ksort($buah);
 
 // Berdasarkan nilai
 asort($buah);
+
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");

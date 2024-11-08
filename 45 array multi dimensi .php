@@ -22,4 +22,4 @@ foreach($artikel as $post){
     echo "<hr>";
 }
 
-echo "<p><strong><i>By HAFIS RAMADHAN</strong>";
+echo "<p><strong><i>HAFIS RAMADHAN</strong>";

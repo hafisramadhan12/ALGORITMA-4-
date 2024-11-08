@@ -11,6 +11,6 @@ for($i=1; $i <=3; $i++){
 }
 echo "</table>";
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");
 
 ?>
